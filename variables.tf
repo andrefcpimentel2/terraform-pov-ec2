@@ -61,3 +61,7 @@ data "aws_ami" "ubuntu" {
 variable "poc_subnet_id" {
 
 }
+variable "iam_role" {
+
+}
+
